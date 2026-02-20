@@ -1,3 +1,4 @@
+Planning an app:
 Context:
 Let’s create an app to help people writing documents to reference any other documents or knowledge as they write, and use AI to write the document with them as they go referencing those added documents.
 
@@ -14,3 +15,8 @@ The design direction for this app should be a clean, minimal document editor usi
 
 Send request:
 Create a thorough plan to build this application.
+
+Figma to Cursor:
+Implement this design from Figma using React JS:
+URL
+Pay close attention to the details and variables that are used in this file. Create a design system file in JSON format to keep future designs consistant.
