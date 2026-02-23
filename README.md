@@ -1,4 +1,7 @@
 ### Planning an app:
+
+<mark>Use *Plan* mode with *Opus*<mark>
+
 - **Provide context:**  
 Let’s create an app to help people writing documents to reference any other documents or knowledge as they write, and use AI to write the document with them as they go referencing those added documents.
 
