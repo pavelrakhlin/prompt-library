@@ -21,5 +21,5 @@ Create a thorough plan to build this application.
 
 ### Creating a style guide
 - Find an suitable image on Dribbble or Mobbin
-- Paste image into Cursor with the following prompt, making adjustments for your specific project.
+- Paste image into Cursor with the following prompt, making adjustments for your specific project.  
    Let's extract the high level style guidelines and direction from the attached screenshot as if you were a creative director for a software company. Add these guidelines in JSON to a file in the planning folder called design-guidelines.json. I also want to include in thie style guide a display serif font from Google fonts that we can use as the heading font, and a modern sans serif font we can use for the rest of the copy. Make sure to cover all major UI components that we would need for a software application.
