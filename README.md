@@ -19,6 +19,4 @@ Create a thorough plan to build this application.
 ***
 
 ### Figma to Cursor:  
--Implement this design from Figma using React JS:
-'URL'
-Pay close attention to the details and variables that are used in this file. Create a design system file in JSON format to keep future designs consistant.
+-Implement this design from Figma using React JS:'URL' Pay close attention to the details and variables that are used in this file. Create a design system file in JSON format to keep future designs consistant.
