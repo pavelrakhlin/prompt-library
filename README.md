@@ -1,3 +1,9 @@
+### GitHub
+
+Review the current git diff, generate a concise conventional commit message based on the changes, then stage all changes, commit, and push to origin on the current branch. 
+If no upstream is set, configure it automatically. 
+Show the commands before running them.
+
 ### Planning an app:
 
 <mark>Use *Plan* mode with *Opus*<mark>
