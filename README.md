@@ -1,6 +1,10 @@
+### Basic project setup prompt
+
+- Create a minimal Vite + static HTML setup: basic index.html, package.json with dev/build/preview scripts and Vite as a devDependency. Run npm install so I can use npm run dev.
+
 ### GitHub
 
-Review the current git diff, generate a concise conventional commit message based on the changes, then stage all changes, commit, and push to origin on the current branch. 
+- Review the current git diff, generate a concise conventional commit message based on the changes, then stage all changes, commit, and push to origin on the current branch. 
 If no upstream is set, configure it automatically. 
 Show the commands before running them.
 
