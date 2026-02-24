@@ -1,6 +1,6 @@
 ### Basic project setup prompt
 
-- Create a minimal Vite + static HTML setup: basic index.html, package.json with dev/build/preview scripts and Vite as a devDependency. Run npm install so I can use npm run dev.
+- Create a minimal Vite + static HTML setup: basic index.html, package.json with dev/build/preview scripts and Vite as a devDependency. Run npm install then do npm run dev and open a browser window.
 
 ### GitHub
 
