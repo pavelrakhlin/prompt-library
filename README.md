@@ -32,11 +32,17 @@ Create a thorough plan to build this application.
 ### Implement Figma design in Cursor:  
 - Implement this design from Figma using React JS:'URL' Pay close attention to the details and variables that are used in this file. Create a design system file in JSON format to keep future designs consistant.
 
-### Creating a style guide
+### Creating and applying a design system
+
+**Create a style guide from a source**
 1. Find an suitable image on Dribbble or Mobbin
-2. **Paste image into Cursor with the following prompt, making adjustments for your specific project:**  
+2. Paste image into Cursor with the following prompt, making adjustments for your specific project:  
 - LLM: Gemini
 - Let's extract the high level style guidelines and direction from the attached screenshot as if you were a creative director for a software company. Add these guidelines in JSON to a file in the planning folder called design-guidelines.json. I also want to include in thie style guide a display serif font from Google fonts that we can use as the heading font, and a modern sans serif font we can use for the rest of the copy. Make sure to cover all major UI components that we would need for a software application.
-3. **Create a test styleguide page:**  
+3. Create a test styleguide page:  
 - LLM: Sonnet
 - Let's create a static page in this project with every UI component we might need our application following the design guidelines here '@design-guidelines.json'. Just create styling only for this page and don't apply to any other area of our app
+
+**Apply styles to a project**  
+
+4. Prompt: Use <styleguide.tsx> as a reference for the UI styles for this app and apply the design style from this page across the entire UI for our application following the components and styles on this page.
